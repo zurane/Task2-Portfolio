@@ -23,14 +23,12 @@ header {
   max-width: 88%;
 } */
 
-.logo {
-  font-family: "Space Grotesk", sans-serif;
-}
 
-.logo a {
+.logo {
   text-decoration: none;
   color: #000;
   font-weight: 600;
+  font-family: "Space Grotesk", sans-serif;
 }
 
 nav {
